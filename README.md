@@ -16,7 +16,9 @@ A simple command-line tool written in Go to encode, decode, save, and load messa
 ---
 
 
-```bash
+
+### bash
+```
 go run main.go
 ```
 
